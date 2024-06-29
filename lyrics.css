@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    height: 1500px;
+    height: 100%;
     font-family: 'Open Sans', sans-serif;
     background: url(output-onlinepngtools.png) center no-repeat;
     background-size: cover;
